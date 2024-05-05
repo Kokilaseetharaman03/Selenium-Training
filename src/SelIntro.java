@@ -19,6 +19,7 @@ public class SelIntro {
 		System.out.println(driver.getCurrentUrl());
 		//System.out.println(driver.getPageSource());
         driver.close();
+		System.out.println(12);
 		//WebElement jobsearch = driver.findElement(By.id("search-input--par"));
 		//jobsearch.sendKeys("quality"); 
 
